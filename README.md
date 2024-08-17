@@ -4,9 +4,9 @@ A simple and intuitive Markdown-based notepad built with React, HTML, CSS, and J
 
 ## Features
 
-**Markdown Support**: Write notes in Markdown with live preview.
-**Real-time Sync**: Notes are saved and synchronized in real-time using Firebase.
-**CRUD Operations**: Create, Read, Update, and Delete notes.
+- **Markdown Support**: Write notes in Markdown with live preview.
+- **Real-time Sync**: Notes are saved and synchronized in real-time using Firebase.
+- **CRUD Operations**: Create, Read, Update, and Delete notes.
 
 ## Snapshots
 
@@ -16,17 +16,17 @@ A simple and intuitive Markdown-based notepad built with React, HTML, CSS, and J
 
 ## Technologies Used
 
-**React**: JavaScript library for building user interfaces.
-**HTML/CSS**: Markup and styling of the application.
-**JavaScript**: Functionality and logic.
-**Firebase**: Backend as a Service (BaaS) for real-time database.
+- **React**: JavaScript library for building user interfaces.
+- **HTML/CSS**: Markup and styling of the application.
+- **JavaScript**: Functionality and logic.
+- **Firebase**: Backend as a Service (BaaS) for real-time database.
 
 ## Installation
 
 **Prerequisites**
 
-**Node.js**: Ensure you have Node.js installed on your machine.
-**Firebase**: Create Firebase Account and project to setup the database for the project.
+- **Node.js**: Ensure you have Node.js installed on your machine.
+- **Firebase**: Create Firebase Account and project to setup the database for the project.
 
 ## Steps to Run the Project Locally
 
@@ -59,6 +59,6 @@ npm start
 
 ## Usage
 
-**Create a Note**: Click the "New Note" button to create a new markdown note.
-**Edit a Note**: Click on any existing note to edit.
-**Delete a Note**: Hover over a specific note in the sidebar's notes tab to see the delete icon, then click on it to remove the note.
+- **Create a Note**: Click the "New Note" button to create a new markdown note.
+- **Edit a Note**: Click on any existing note to edit.
+- **Delete a Note**: Hover over a specific note in the sidebar's notes tab to see the delete icon, then click on it to remove the note.
