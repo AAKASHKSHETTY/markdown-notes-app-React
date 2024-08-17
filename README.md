@@ -1,6 +1,6 @@
 # Markdown Notepad
 
-A simple and intuitive Markdown-based notepad built with React, HTML, CSS, and JavaScript, leveraging Firebase for backend storage. This application allows users to create, edit, and save notes in Markdown format with real-time synchronization across devices.
+A simple and intuitive Markdown-based notepad built with React, HTML, CSS, and JavaScript, using Firebase for backend storage. This application allows users to create, edit, and save notes in Markdown format with real-time synchronization across devices.
 
 ## Features
 
